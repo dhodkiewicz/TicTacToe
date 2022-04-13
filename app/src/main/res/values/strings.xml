@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Tic Tac Toe Interface</string>
+    <string name="second_fragment_label">Tic Tac Toe Game</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Tic Tac Toe</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Strings for game_setup -->
+    <string name="PlayerSetupTitle">Enter Your Name</string>
+    <string name="lblPlayerOne">Player One</string>
+    <string name="lblPlayerTwo">Player Two</string>
+    <string name="btnSubmit">Submit Names</string>
+    <string name="nameHint">Enter Your Name</string>
+
+    <!-- End for Strings for game_setup -->
+    <!-- Strings for game_display -->
+    <string name="playAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+
+
+</resources>
